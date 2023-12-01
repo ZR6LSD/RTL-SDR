@@ -3,6 +3,9 @@
 My script compiles and installs all the needed software to use the Realtek RTL2832 based DVB dongles as a SDR receiver.   
 It creates a systemd service file for the automatic startup and run at boot.
 
+My script works on both x86/x64bit and ARM based systems as it compiles from source.
+
+
 # Help improve the script
 
 If you would like to help me improve my scripts. Feel free to contact me zr6lsd@gmail.com
