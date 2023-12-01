@@ -17,7 +17,7 @@ Litecoin LTC: LMGEaMySbztMVftx6WJextU1WEQAEEnrR9
 
 DVB-T dongles based on the Realtek RTL2832U can be used as a cheap SDR, since the chip allows transferring the raw I/Q samples to the host, which is officially used for DAB/DAB+/FM demodulation. The possibility of this has been discovered by Eric Fry
 
-turns your Realtek RTL2832 based DVB dongle into a SDR receiver
+Turns your Realtek RTL2832 based DVB dongle into a SDR receiver
 ======================================================================
 
 For more information see:
