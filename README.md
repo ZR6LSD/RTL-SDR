@@ -6,6 +6,14 @@ It creates a systemd service file for the automatic startup and run at boot.
 
 My script works on both x86/x64bit and ARM based systems as it compiles from source.
 
+# To use the Installation Script.
+
+1. Just clone my repository on a fresh installation of Ubuntu server . 
+2. Make the file auto_install_rtl-sdr.sh executable with ```sudo chmod +x auto_install_rtl-sdr.sh ```
+3. Run the script ```sudo ./auto_install_sdrplay.sh```
+4. Follow the prompts and answer a few questions
+5. Reboot
+6. Done 
 
 # Help improve the script
 
