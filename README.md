@@ -3,11 +3,12 @@
 # Help improve the script
 
 If you would like to help me improve my scripts. Feel free to contact me zr6lsd@gmail.com
+
 # Conclusion
 
 Have fun with it! But keep in mind that I have not tested them on every other Linux distribution available and I cannot offer support to you if they don't work on yours. I would love to hear your comments and I will happily look at any suggestions for new features or code fixes but I do not have the time or inclination to run and test your modified versions, act as a beta tester or even offer useful advice if your changes are not working. I am NOT an expert; I am simply sharing tools that I use everyday.
 
-#Donations
+# Donations
 
 However, if you find any of my work or videos on my channel enjoyable or helpful, then any small donations would be greatly appreciated, and would help towards me creating more content. If you would like to help with a donation, you can do so via.
 
@@ -16,7 +17,6 @@ Litecoin LTC: LMGEaMySbztMVftx6WJextU1WEQAEEnrR9
 
 DVB-T dongles based on the Realtek RTL2832U can be used as a cheap SDR, since the chip allows transferring the raw I/Q samples to the host, which is officially used for DAB/DAB+/FM demodulation. The possibility of this has been discovered by Eric Fry
 
-rtl-sdr
 turns your Realtek RTL2832 based DVB dongle into a SDR receiver
 ======================================================================
 
