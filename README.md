@@ -6,6 +6,11 @@
 
 - My script works on both x86/x64bit and ARM based systems as it compiles from source.
 
+- If you get a error cloning the repository. 
+```git clone git://git.osmocom.org/rtl-sdr.git```
+ - Replace it in the script with.
+ - ```git clone https://gitea.osmocom.org/sdr/rtl-sdr.git```
+
 # To use the Installation Script.
 
 1. Just clone my repository on a fresh installation of Ubuntu server . 
