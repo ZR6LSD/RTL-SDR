@@ -1,10 +1,10 @@
 # A little script that I made to automate the installation process of the rtl-sdr for a headless linux server.
 
-My script compiles and installs all the needed software to use the Realtek RTL2832 based DVB dongles as a SDR receiver.   
+- My script compiles and installs all the needed software to use the Realtek RTL2832 based DVB dongles as a SDR receiver.   
 
-It creates a systemd service file for the automatic startup and run at boot.
+- It creates a systemd service file for the automatic startup and run at boot.
 
-My script works on both x86/x64bit and ARM based systems as it compiles from source.
+- My script works on both x86/x64bit and ARM based systems as it compiles from source.
 
 # To use the Installation Script.
 
