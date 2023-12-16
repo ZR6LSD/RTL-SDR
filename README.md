@@ -9,7 +9,7 @@
 - If you get a error cloning the repository. 
 ```git clone git://git.osmocom.org/rtl-sdr.git```
  - Replace it in the script with.
- - ```git clone https://gitea.osmocom.org/sdr/rtl-sdr.git```
+```git clone https://gitea.osmocom.org/sdr/rtl-sdr.git```
 
 # To use the Installation Script.
 
