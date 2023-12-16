@@ -37,6 +37,7 @@ apt-get install libusb-1.0-0.dev -y
 # Clone rtl-sdr repository
 echo "Cloning rtl-sdr repository..."
 git clone git://git.osmocom.org/rtl-sdr.git
+# git clone https://gitea.osmocom.org/sdr/rtl-sdr.git
 
 # Change to the rtl-sdr directory
 echo "Changing to rtl-sdr directory..."
