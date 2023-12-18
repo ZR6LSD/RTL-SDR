@@ -40,6 +40,8 @@ DVB-T dongles based on the Realtek RTL2832U can be used as a cheap SDR, since th
 
 Turns your Realtek RTL2832 based DVB dongle into a SDR receiver
 ======================================================================
+- Please be sure to check out my youtube channel Thanks! 73's Dave ZR6LSD
+- YouTube: https://www.youtube.com/watch?v=6RPmQkl3w78
 
 For more information see:
 https://osmocom.org/projects/rtl-sdr/wiki
