@@ -114,5 +114,5 @@ echo " "
 echo "Installation and execution complete."
 
 #Please be sure to check out my youtube channel Thanks! 73's Dave ZR6LSD
-#YouTube: https://www.youtube.com/channel/UChsvCpuR1VJg0w5DX9j5GsA
+#YouTube: https://www.youtube.com/watch?v=6RPmQkl3w78
 
