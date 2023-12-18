@@ -23,6 +23,12 @@
 
 #!/bin/bash
 
+# Check if the script is running with root privileges
+if [ "$(id -u)" -ne 0 ]; then
+    echo "Please run this script as root."
+    exit 1
+fi
+
 set -e
 
 # Update package repositories
