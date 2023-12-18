@@ -16,7 +16,7 @@
 
 1. Just clone my repository on a fresh installation of Ubuntu server . 
 2. Make the file ```auto_install_rtl-sdr.sh``` executable with ```chmod +x auto_install_rtl-sdr.sh ```
-3. Run the script ```auto_install_rtl-sdr.sh```
+3. Run the script ```./auto_install_rtl-sdr.sh```
 4. Follow the prompts and answer a few questions
 5. Reboot
 6. Done 
